@@ -1,0 +1,1 @@
+export const LOCAL_STORAGE_LOGS_KEY = 'logs'

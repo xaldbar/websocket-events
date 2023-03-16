@@ -1,0 +1,11 @@
+.tableFilters {
+    display: flex;
+    column-gap: 16px;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.filterSelect {
+    width: 150px;
+}

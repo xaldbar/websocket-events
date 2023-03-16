@@ -1,0 +1,19 @@
+.eventCreator {
+    margin: 0 auto;
+    padding: 16px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    flex-shrink: 0;
+}
+
+.eventCreatorForm {
+    max-width: 500px;
+}
+
+.formButtons {
+    display: flex;
+    column-gap: 8px;
+    justify-content: center;
+}
